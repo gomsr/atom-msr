@@ -2,16 +2,16 @@ package vconfig
 
 import (
 	"github.com/gomsr/atom-gorm/gconfig"
-	"github.com/gomsr/atom-kit/utilx/email"
+	"github.com/gomsr/atom-kits/emailx"
 	"github.com/gomsr/atom-rest/aconfig"
 	"github.com/gomsr/atom-zap/configz"
 	"github.com/kongmsr/oneid-core/modelo"
 )
 
 type Server struct {
-	System System      `mapstructure:"system" json:"system" yaml:"system"`
-	Email  email.Email `mapstructure:"email" json:"email" yaml:"email"`
-	Zap    configz.Zap `mapstructure:"zap" json:"zap" yaml:"zap"`
+	System System       `mapstructure:"system" json:"system" yaml:"system"`
+	Email  emailx.Email `mapstructure:"email" json:"email" yaml:"email"`
+	Zap    configz.Zap  `mapstructure:"zap" json:"zap" yaml:"zap"`
 
 	gconfig.DbServer `yaml:",inline" mapstructure:",squash"`
 
