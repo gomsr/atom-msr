@@ -10,7 +10,7 @@ require (
 	github.com/gomsr/atom-zap v0.0.3
 	github.com/kongmsr/oneid-core v0.4.1
 	github.com/spf13/viper v1.20.1
-	github.com/zeromicro/go-zero v1.7.6
+	github.com/zeromicro/go-zero v1.8.3
 	go.uber.org/zap v1.27.0
 	gorm.io/gorm v1.26.1
 )
@@ -29,8 +29,8 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
-	github.com/jackc/pgx/v5 v5.6.0 // indirect
-	github.com/jackc/puddle/v2 v2.2.1 // indirect
+	github.com/jackc/pgx/v5 v5.7.4 // indirect
+	github.com/jackc/puddle/v2 v2.2.2 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible // indirect
