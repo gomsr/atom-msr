@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"github.com/gomsr/atom-gorm/initialize/gormc"
 	"github.com/gomsr/atom-msr/kg"
-	"github.com/zeromicro/go-zero/core/logx"
 	"gorm.io/gorm/logger"
 )
 
@@ -30,7 +29,7 @@ func (w *writer) Printf(message string, data ...interface{}) {
 	if logType == gormc.Zap {
 		kg.L.Info(fmt.Sprintf(message+"\n", data...))
 	} else if logType == gormc.GoZero {
-		logx.Debug(fmt.Sprintf(message+"\n", data...))
+		// logx.Debug(fmt.Sprintf(message+"\n", data...))
 	}
 
 	w.Writer.Printf(message, data...)
