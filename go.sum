@@ -42,8 +42,8 @@ github.com/golang-migrate/migrate/v4 v4.18.3 h1:EYGkoOsvgHHfm5U/naS1RP/6PL/Xv3S4
 github.com/golang-migrate/migrate/v4 v4.18.3/go.mod h1:99BKpIi6ruaaXRM1A77eqZ+FWPQ3cfRa+ZVy5bmWMaY=
 github.com/gomsr/atom-gorm v0.0.4 h1:mCk4OmTSMqqoDcDovLirS+iFgUHcp6v64nNXy/KvvYY=
 github.com/gomsr/atom-gorm v0.0.4/go.mod h1:OhGxvZqQzIP6xvqeiIsc4N04k13JLy6dRguOpztggxA=
-github.com/gomsr/atom-kits v0.0.2 h1:jjXZkYdmS0VbmzWxLvFEbEZQvm6sii6gmLSUuc8/1BM=
-github.com/gomsr/atom-kits v0.0.2/go.mod h1:L4ZTVOLxMzeHvlsu/8Ok1J+7ujAV2sYFv2i4AgPptSU=
+github.com/gomsr/atom-kits v0.0.3 h1:R+bg5KbPvGW1dCFyAtXe6vhiuq7PGeHb6Rh6eXmlJIo=
+github.com/gomsr/atom-kits v0.0.3/go.mod h1:ueysjDvy/RAM8MdxNbvMiVepIWEuyeq35oRcO5wxSOE=
 github.com/gomsr/atom-rest v0.0.1 h1:+iTRvXVQYjw60G3NxEd3gYIMCE/iL+eTQl52G3aVg3I=
 github.com/gomsr/atom-rest v0.0.1/go.mod h1:XG0JNx0QJ8GXAKyycrPY06EjqzbNseF727KMY+nRFto=
 github.com/gomsr/atom-viper v0.0.2 h1:+2lfbYKXFXHoKOyK7QYQJiUCxx81hKGQCjJ/lRdplrY=
