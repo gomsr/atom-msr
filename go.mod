@@ -11,7 +11,7 @@ require (
 	github.com/kongmsr/oneid-core v0.4.1
 	github.com/spf13/viper v1.20.1
 	go.uber.org/zap v1.27.0
-	gorm.io/gorm v1.26.1
+	gorm.io/gorm v1.30.2
 )
 
 require (
