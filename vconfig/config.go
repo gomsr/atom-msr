@@ -4,6 +4,7 @@ import (
 	"github.com/gomsr/atom-gorm/gconfig"
 	"github.com/gomsr/atom-kits/emailx"
 	"github.com/gomsr/atom-rest/aconfig"
+	"github.com/gomsr/atom-s3/configs3"
 	"github.com/gomsr/atom-zap/configz"
 	"github.com/kongmsr/oneid-core/modelo"
 )
@@ -20,6 +21,10 @@ type Server struct {
 	JWT       aconfig.JWT      `mapstructure:"jwt" json:"jwt" yaml:"jwt"`
 	Captcha   aconfig.Captcha  `mapstructure:"captcha" json:"captcha" yaml:"captcha"`
 	OneidConf modelo.OneidConf `mapstructure:"oneid-token" json:"oneid-token" yaml:"oneid-token"`
+
+	// oss
+	Local configs3.Local `mapstructure:"local" json:"local" yaml:"local"`
+	AwsS3 configs3.AwsS3 `mapstructure:"aws-s3" json:"aws-s3" yaml:"aws-s3"` // minio|cloudflare same with this
 }
 
 type System struct {
