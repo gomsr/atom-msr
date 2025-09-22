@@ -6,7 +6,7 @@ require (
 	github.com/gomsr/atom-gorm v0.0.4
 	github.com/gomsr/atom-kits v0.0.3
 	github.com/gomsr/atom-rest v0.0.3
-	github.com/gomsr/atom-s3 v0.1.0
+	github.com/gomsr/atom-s3 v0.1.1
 	github.com/gomsr/atom-viper v0.0.2
 	github.com/gomsr/atom-zap v0.0.3
 	github.com/kongmsr/oneid-core v0.4.3

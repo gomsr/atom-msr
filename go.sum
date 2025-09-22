@@ -46,8 +46,8 @@ github.com/gomsr/atom-kits v0.0.3 h1:R+bg5KbPvGW1dCFyAtXe6vhiuq7PGeHb6Rh6eXmlJIo
 github.com/gomsr/atom-kits v0.0.3/go.mod h1:ueysjDvy/RAM8MdxNbvMiVepIWEuyeq35oRcO5wxSOE=
 github.com/gomsr/atom-rest v0.0.3 h1:HdmuoTrpnqcuev9GyU/JnBX98oi+euMqb82zghYY6x0=
 github.com/gomsr/atom-rest v0.0.3/go.mod h1:YplMTfuKpWzQZYclb0h3ePa8uDxH3sLbaox124Clsds=
-github.com/gomsr/atom-s3 v0.1.0 h1:WvcVruD3A8xsvfeBkNxZHMghNsbBt51EfqIlXd50Kdc=
-github.com/gomsr/atom-s3 v0.1.0/go.mod h1:oIIcNMD691J5CxZpRHMupd7M7hQhZKtjA1DqcgDqTq0=
+github.com/gomsr/atom-s3 v0.1.1 h1:+Fe3aEzR7n6jrS1AkMnY6Bad2RrcqWPyuH7IYKR8xuA=
+github.com/gomsr/atom-s3 v0.1.1/go.mod h1:oIIcNMD691J5CxZpRHMupd7M7hQhZKtjA1DqcgDqTq0=
 github.com/gomsr/atom-viper v0.0.2 h1:+2lfbYKXFXHoKOyK7QYQJiUCxx81hKGQCjJ/lRdplrY=
 github.com/gomsr/atom-viper v0.0.2/go.mod h1:jg1zeIQKXMAhT9ofbmv1OT2xReYy4ZRQ6pmSSKaYQeg=
 github.com/gomsr/atom-zap v0.0.3 h1:/VhLHsOSzqRztxk9Kea+mSdL/CzkiRmpjgishXUdv4g=
